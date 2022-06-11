@@ -1,5 +1,6 @@
 - 👋 Hi, I’m saurabh mishra
 - 👀 I’m am a student
+- 😍 I’m am interested in learning new things
 - 🌱 I’m currently learning web development
 - 📫 How to reach me smishra9109@gmail.com
 

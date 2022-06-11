@@ -1,4 +1,4 @@
-- 👋 Hi, I’m saurabh mmishra
+- 👋 Hi, I’m saurabh mishra
 - 👀 I’m am a student
 - 🌱 I’m currently learning web development
 - 📫 How to reach me smishra9109@gmail.com

@@ -1,7 +1,6 @@
 - 👋 Hi, I’m saurabh mishra
 - 👀 I’m am a backend developer
-- 😍 I’m am interested in learning new things
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently working as a software engineer
 - 📫 How to reach me smishra9109@gmail.com
 - portfolio https://portfolio-craft.netlify.app/portfolio/saurabh.mishra
 

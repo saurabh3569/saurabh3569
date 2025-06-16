@@ -1,10 +1,13 @@
-- 👋 Hi, I’m saurabh mishra
-- 👀 I’m am a backend developer
-- 🌱 I’m currently working as a software engineer
-- 📫 How to reach me smishra9109@gmail.com
-- portfolio https://portfolio-craft.netlify.app/portfolio/saurabh.mishra
+### 👋 Hi there, I'm Saurabh Mishra
 
-<!---
-saurabh3569/saurabh3569 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I'm a **Backend Developer** with a strong focus on building scalable, secure, and maintainable APIs.  
+🚀 Currently working as a **Backend Developer**, crafting robust backend systems and exploring distributed systems & architecture.  
+🛠️ Tech Stack: Node.js, Express, TypeScript, PostgreSQL, MongoDB, Redis, Docker, and more.  
+🌱 Actively learning about system design, message queues (Kafka, RabbitMQ), and cloud infrastructure.
+
+📫 Reach me at: [smishra9109@gmail.com](mailto:smishra9109@gmail.com)  
+🌐 Portfolio: [portfolio-craft.netlify.app/portfolio/saurabh.mishra](https://portfolio-craft.netlify.app/portfolio/saurabh.mishra)
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
